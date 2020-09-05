@@ -1,7 +1,7 @@
 # Whatsapp Share Button
 A simple Whatsapp Share Button using HTML, CSS and JavaScript (optional). It's supposed to look like the [Facebook/Twitter Share-Buttons](https://github.com/nkoepke/whatsapp-share-button/blob/master/social_media_share_buttons.png).
 
-![GitHub Logo](src/assets/wa_img.png)
+![GitHub Logo](/src/assets/wa_img.png)
 
 ## Normal
 
